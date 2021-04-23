@@ -1,2 +1,2 @@
 # fuzzy-lamp
-Hello Fuk
+My page
